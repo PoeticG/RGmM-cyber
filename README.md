@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Full Name]
+# 👋 Hi, I'm [Rafael G Macalino]
 
 🔐 Aspiring Cybersecurity Professional  
 🎓 Ethical Hacking Essentials – EC-Council  
@@ -16,7 +16,9 @@
 - 🖥️ Linux Security Hardening (beginner)
 
 ## 📜 Certifications
-- Ethical Hacking Essentials – EC-Council
+- [Ethical Hacking Essentials – EC-Council](https://aspen.eccouncil.org/Certificate/Certificate?a=D069hWj2DVLEsKX95BTUaw==)
 
 ## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+www.linkedin.com/in/rafael-macalino-162b36380
+
+
